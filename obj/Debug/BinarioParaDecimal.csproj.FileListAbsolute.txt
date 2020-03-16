@@ -1,0 +1,9 @@
+C:\Users\0068\Documents\cSharp\BinarioParaDecimal\bin\Debug\BinarioParaDecimal.exe.config
+C:\Users\0068\Documents\cSharp\BinarioParaDecimal\bin\Debug\BinarioParaDecimal.exe
+C:\Users\0068\Documents\cSharp\BinarioParaDecimal\bin\Debug\BinarioParaDecimal.pdb
+C:\Users\0068\Documents\cSharp\BinarioParaDecimal\obj\Debug\BinarioParaDecimal.csprojAssemblyReference.cache
+C:\Users\0068\Documents\cSharp\BinarioParaDecimal\obj\Debug\BinarioParaDecimal.Form1.resources
+C:\Users\0068\Documents\cSharp\BinarioParaDecimal\obj\Debug\BinarioParaDecimal.Properties.Resources.resources
+C:\Users\0068\Documents\cSharp\BinarioParaDecimal\obj\Debug\BinarioParaDecimal.csproj.GenerateResource.cache
+C:\Users\0068\Documents\cSharp\BinarioParaDecimal\obj\Debug\BinarioParaDecimal.exe
+C:\Users\0068\Documents\cSharp\BinarioParaDecimal\obj\Debug\BinarioParaDecimal.pdb
