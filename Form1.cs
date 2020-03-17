@@ -63,21 +63,19 @@ namespace BinarioParaDecimal
                 MessageBox.Show($"Você não preencheu o campo BINÁRIO. Informe valores", es.Message);
             }
 
-
-
-            //Logica para caso não informar o valor, retornar msg de erro.
+           
         }
 
         private void txt_Binario_KeyPress(object sender, KeyPressEventArgs e)
         {
-            //Permite somente 0 ou 1;
+            //Somente 0 ou 1;
             e.Handled = !("\b01".Contains(e.KeyChar));
 
         }
 
         private void txt_Binario_Validating(object sender, CancelEventArgs e)
         {
-            // SE UM DIA PRECISAR, CASO O CAMPO FICAR EM BRANCO, EXIBIR ALERTA.
+            // CASO O CAMPO FICAR EM BRANCO, EXIBIR ALERTA.
             if (txt_Binario.Text.Trim().Length == 0)
             {
                 errorProvider1.SetError(txt_Binario, "Informe valores!");
